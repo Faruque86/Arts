@@ -1,0 +1,45 @@
+body{
+	background: #333;
+}
+.navbar{	
+	opacity: 0.8;
+	border-bottom: .5px solid #d3d3d3;
+}
+
+#home-section{
+	background: url(../images/banner_.jpg) no-repeat center top;
+	min-height: 700px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#home-section .home-overlay{
+	background: rgba(0, 0, 0, 0.7);
+	min-height: 700px;
+}
+#home-section .home-inner{
+	padding-top: 130px;
+	color: #fff;
+}
+#home-section .icon-ok{
+	font-size: 25px;
+	padding: 4px;
+	background: #fff;
+	color: #068;
+	border-radius: 5px;
+}
+#home-section .lead{
+	font-size: 25px;
+	font-weight: 400;
+}
+#about-main-section img{
+	width: 100px;
+	height: 90px;
+}
+#yoga-main-section .icon-ok{
+	font-size: 25px;
+	padding: 4px;
+	background: #000;
+	color: #fff;
+	border-radius: 5px;
+
+}
